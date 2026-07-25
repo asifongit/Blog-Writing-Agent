@@ -4,7 +4,7 @@ An AI-powered blog generator built with LangGraph, Groq, and Streamlit.
 
 ---
 
-![Project Dashboard Screenshot](assets/screenshot.png)
+![Project Dashboard Screenshot](assets/Screenshot.png)
 
 ---
 
