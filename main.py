@@ -108,7 +108,7 @@ class State(TypedDict):
 
 # ── LLM ──────────────────────────────────────────────────────────────────────
 
-llm = ChatGroq(model="qwen/qwen3.6-27b",api_key=GROQ_API_KEY,)
+llm = ChatGroq(model="openai/gpt-oss-120b",api_key=GROQ_API_KEY,)
 
 
 # ── Nodes ─────────────────────────────────────────────────────────────────────
