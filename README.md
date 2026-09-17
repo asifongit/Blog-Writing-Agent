@@ -4,7 +4,7 @@ An AI-powered blog generator built with LangGraph, Groq, and Streamlit.
 
 ---
 
-🔗 **Live Demo:** https://blog-writing-agent-withoneclick.streaml
+🔗 **Live Demo:** https://blog-writing-agent-withoneclick.streamlit.app/
 
 
 ![Project Dashboard Screenshot](assets/Screenshot.png)
