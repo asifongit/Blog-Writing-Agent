@@ -108,7 +108,7 @@ class State(TypedDict):
 
 # ── LLM ──────────────────────────────────────────────────────────────────────
 
-llm = ChatGroq(model="llama-3.3-70b-versatile",api_key=GROQ_API_KEY,)
+llm = ChatGroq(model="qwen/qwen3.6-27b",api_key=GROQ_API_KEY,)
 
 
 # ── Nodes ─────────────────────────────────────────────────────────────────────
